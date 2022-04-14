@@ -1,12 +1,14 @@
 # 1. Project Description
 	This projects aims to implement a simple voice command controller of LEDs. 
-	The idea of having controlled lights is very popular nowadays and this project shows a simple approach in order to achieve this.
+	The idea of having controlled lights is very popular nowadays 
+	and this project shows a simple approach in order to achieve this.
 	
-	The project consists in a smartphone that uses a voice recognition app to capture a voice command, 
-	it then sends the captured voice command to a Bluetooth module which communicates with an Arduino Uno board 
-	that can further transmit the command to the LEDs.
+	The project consists in a smartphone that uses a voice recognition app 
+	to capture a voice command, it then sends the captured voice command to a Bluetooth module 
+	which communicates with an Arduino Uno board that can further transmit the command to the LEDs.
 	
-	For a more interesting and complex experience I also integrated a LCD display to show as text the last command given.
+	For a more interesting and complex experience I also integrated a LCD display 
+	to show as text the last command given.
 	
 	
 # 2. Schematics
