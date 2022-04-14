@@ -55,4 +55,3 @@ Jumper Wires
 
 		3. If a correct command was given, the corresponding action will take place 
 		and a message with the command will also appear on the LCD display 
-# 6. Demo
