@@ -15,7 +15,7 @@
 # 3. Pre-Requisites
 [Arduino UNO R3 Controller Board](https://docs.arduino.cc/hardware/uno-rev3)
 
-[Breadboard 830](https://www.digikey.com/catalog/en/partgroup/full-size-breadboard-830-tie-points/68965
+[Breadboard 830] (https://www.digikey.com/catalog/en/partgroup/full-size-breadboard-830-tie-points/68965
 
 Red & Green LEDs (5pcs)
 
