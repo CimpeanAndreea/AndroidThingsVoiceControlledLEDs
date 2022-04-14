@@ -14,6 +14,7 @@
 
 # 3. Pre-Requisites
 [Arduino UNO R3 Controller Board](https://docs.arduino.cc/hardware/uno-rev3)
+
 [Breadboard 830](https://www.digikey.com/catalog/en/partgroup/full-size-breadboard-830-tie-points/68965
 Red & Green LEDs (5pcs)
 [Bluetooth HC-05 Module](https://www.rhydolabz.com/wireless-bluetooth-ble-c-130_132/hc05-bluetooth-module-masterslave-p-1169.html)
