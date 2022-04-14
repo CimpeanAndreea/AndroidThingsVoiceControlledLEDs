@@ -10,7 +10,7 @@
 	
 	
 # 2. Schematics
-	![alt text](https://user-images.githubusercontent.com/29926517/163309537-d8473e6f-f1f1-44e4-8004-dc606928e354.png)
+	![alt text](VoiceCotnrolledLEDsSketch_bb.png)
 
 # 3. Pre-Requisites
 	- Arduino UNO R3 Controller Board
