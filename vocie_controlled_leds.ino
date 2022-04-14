@@ -5,17 +5,17 @@ const int rs = 13, en = 12, d4 = 7, d5 = 6, d6 = 5, d7 = 4;   // the pins on Ard
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);    // initialize lcd
 
 #define GREEN_LED 2   // the pin on Arduino board used for green led
-#define RED_LED 3   // the bin
+#define RED_LED 3   // the pin on Arduino board for red led
 
 String command;   // the voice command
 int TxD = 11;   // transmit serial data pin for bluetooth module
-int RxD = 10;   // receive serial data for bluetooth module
+int RxD = 10;   // receive serial data pin for bluetooth module
 
 SoftwareSerial bluetooth(TxD, RxD);
 
 void setup() {
   // init
-  pinMode(GREEN_LED, OUTPUT); // configure
+  pinMode(GREEN_LED, OUTPUT); // configure the pins for leds to be output pins
   pinMode(RED_LED, OUTPUT);
   Serial.begin(9600); // set the data rate in bits per second for serial data tranmission
   bluetooth.begin(9600);
@@ -23,7 +23,7 @@ void setup() {
 }
 
 void loop() {
-    lcd.setCursor(0, 1);
+    lcd.setCursor(0, 1); // begin on the first line of the lcd display
     if (bluetooth.available())
     {
       lcd.clear(); //clear the display
