@@ -10,7 +10,7 @@
 	
 	
 # 2. Schematics
-![] (VoiceCotnrolledLEDsSketch.png)
+![](VoiceCotnrolledLEDsSketch.png)
 
 # 3. Pre-Requisites
 [Arduino UNO R3 Controller Board](https://docs.arduino.cc/hardware/uno-rev3)
