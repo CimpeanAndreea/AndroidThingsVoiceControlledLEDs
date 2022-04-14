@@ -55,3 +55,9 @@ Jumper Wires
 
 		3. If a correct command was given, the corresponding action will take place 
 		and a message with the command will also appear on the LCD display 
+
+# Demo!
+
+[VoiceControlledLEDs](https://user-images.githubusercontent.com/29926517/163312103-5b77f42a-3129-4930-ab35-ff2f2cbbefb9.jpg)
+
+
